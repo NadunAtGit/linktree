@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+
+# Logs & OS files
+logs/
+*.log
+.DS_Store
+
+# Build files
+frontend/dist/
+
